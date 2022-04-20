@@ -6,12 +6,12 @@ spring:
 spring:
   profiles: dev     #开发环境
   application: 
-    name: microservicecloud-config-tangjunlin-dev2这个是测试的的
+    name: microservicecloud-config-tangjunlin-dev2-ttt
 ---
 spring:
   profiles: test   #测试环境
   application: 
-    name: microservicecloud-config-tangjunlin-test2这个是我测试的的
+    name: microservicecloud-config-tangjunlin-test2-ttt
 #  请保存为UTF-8格式
  
  
